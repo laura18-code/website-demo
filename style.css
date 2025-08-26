@@ -1,0 +1,75 @@
+*{
+    margin: 0%;
+    padding: 0%;
+} 
+
+.main{
+    width: 100%;
+    background: lightcoral;
+    background-position: left;
+    background-size: cover;
+    height: 100vh;
+}
+.navbar{
+    width: 1200px;
+    float: left;
+    margin: auto;
+}
+.icon{
+    width: 200px;
+    float: left;
+    margin: auto;
+}
+
+.logo{
+    color: #ff7200;
+    font-size: 25px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+}
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+    letter-spacing: 0px;
+
+}
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+ul li a{
+    text-decoration: none;
+    color: bisque; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+
+}
+ul li a:hover{
+    color: blue;
+}
+.contant{
+    margin-left: 20px;
+    padding-bottom: 25px;
+    margin-top: 9px;
+    letter-spacing: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+    .biodata main{
+text-decoration: none
+color(srgb red green blue);font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: bold;
+transition: 0.4s ease-in-out
+    }
+
